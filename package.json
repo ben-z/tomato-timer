@@ -1,0 +1,30 @@
+{
+  "name": "tomato-timer",
+  "version": "0.0.1",
+  "description": "A timer that compliments the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) for time management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ben Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.21",
+    "graphql": "^0.4.2",
+    "restify": "^4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ben-z/tomato-timer.git"
+  },
+  "keywords": [
+    "Pomodoro",
+    "Timer"
+  ],
+  "bugs": {
+    "url": "https://github.com/ben-z/tomato-timer/issues"
+  },
+  "homepage": "https://github.com/ben-z/tomato-timer"
+}
